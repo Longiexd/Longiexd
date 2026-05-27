@@ -4,7 +4,7 @@
 
 I build production infrastructure that businesses actually use.
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:sara.klynx@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sara-longo-63701a255/) · [Email](mailto:sara.klynx@gmail.com)
 
 ---
 
@@ -27,6 +27,7 @@ Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Ngin
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 **Infrastructure & Containers**
@@ -38,6 +39,12 @@ Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Ngin
 ![SSH](https://img.shields.io/badge/SSH-000000?style=flat&logo=ssh&logoColor=white)
 ![Cron](https://img.shields.io/badge/Cron-0066CC?style=flat&logo=linux&logoColor=white)
 
+**Security & Hardening**
+
+![UFW](https://img.shields.io/badge/UFW-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
 **Monitoring & Observability**
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -47,18 +54,12 @@ Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Ngin
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Business Tools**
 
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
 ![Directus](https://img.shields.io/badge/Directus-263238?style=flat&logo=directus&logoColor=white)
-
-**Cloud & DNS**
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white)
 
 ---
 
