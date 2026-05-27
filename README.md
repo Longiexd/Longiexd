@@ -4,7 +4,7 @@
 
 I build production infrastructure that businesses actually use.
 
-[LinkedIn](https://www.linkedin.com/in/sara-longo-63701a255/) · [Email](sara.klynx@gmail.com)
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:sara.klynx@gmail.com)
 
 ---
 
@@ -13,7 +13,7 @@ I build production infrastructure that businesses actually use.
 - **DevOps** — Docker orchestration, reverse proxy setup, SSL automation, server hardening
 - **Business Analysis** — ERP implementation, SaaS architecture, workflow optimization  
 - **Infrastructure** — VPS deployment, DNS management, multi-tenant isolation
-- **Security** — Let's Encrypt automation, Cloudflare integration, secure credential handling
+- **Security** — Let's Encrypt automation, Cloudflare integration, SSH hardening
 
 ---
 
@@ -29,12 +29,20 @@ Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Ngin
 
 ## 🛠️ Tech Stack
 
-**Infrastructure**
+**Infrastructure & Containers**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat&logo=ssh&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-0066CC?style=flat&logo=linux&logoColor=white)
+
+**Monitoring & Observability**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![HTOP](https://img.shields.io/badge/HTOP-0099CC?style=flat&logo=gnu&logoColor=white)
 
 **Databases**
 
