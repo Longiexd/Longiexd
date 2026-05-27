@@ -1,48 +1,76 @@
-# 👋 Hi, I'm Sara Longo
+&lt;div align="center"&gt;
 
-**DevOps Engineer | Linux Systems Administrator **
+# 👋 Hey, I'm Longiexd
 
-🔧 Specialized in: Docker, Linux, CI/CD, Odoo ERP deployment & automation
+**DevOps Engineer · Business Systems Analyst · ERP Specialist**
 
-📍 Based in Bucharest, Romania  
-🌐 Fluent in French, English, Arabic
+I build production infrastructure that businesses actually use.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sara.klynx@gmail.com)
+
+&lt;/div&gt;
+
+---
+
+## 🚀 What I Do
+
+- **DevOps** — Docker orchestration, reverse proxy setup, SSL automation, server hardening
+- **Business Analysis** — ERP implementation, SaaS architecture, workflow optimization  
+- **Infrastructure** — VPS deployment, DNS management, multi-tenant isolation
+- **Security** — Let's Encrypt automation, Cloudflare integration, secure credential handling
+
+---
+
+## 💼 Featured Projects
+
+### [server_stack](https://github.com/Longiexd/server_stack) — Production Infrastructure
+
+Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Nginx with automated SSL.
+
+**Live domains:** `client01.klynx.net` · `n8n.klynx.net` · `directus.klynx.net`
+
+**Stack:** Docker Compose · Nginx · PostgreSQL · Odoo 18 · Let's Encrypt · Cloudflare
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Infrastructure & DevOps**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+**Infrastructure**
+&lt;br&gt;`Docker` `Docker Compose` `Nginx` `Ubuntu Server` `Bash`
 
-**Business Systems**  
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+**Databases**
+&lt;br&gt;`PostgreSQL` `SQLite`
 
-**Automation & Scripting**  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+**Business Tools**
+&lt;br&gt;`Odoo` `n8n` `Directus`
+
+**Cloud & DNS**
+&lt;br&gt;`Cloudflare` `Let's Encrypt` `Certbot`
 
 ---
 
-## 📂 Featured Projects
+## 📈 Currently Building
 
-### 🐳 [Odoo Docker Deployment](link-to-repo)
-Production-ready Odoo ERP deployment with Docker Compose, PostgreSQL, and automated backups
-
-### ⚙️ [Server Automation Scripts](link-to-repo)
-Bash scripts for Linux server setup, monitoring, and maintenance tasks
-
-### 🔄 [CI/CD Pipeline Examples](link-to-repo)
-GitHub Actions workflows for automated testing and deployment
+- 🔁 SSL auto-renewal pipeline with cron + Docker reload
+- 📊 Monitoring stack (Prometheus / Grafana)
+- ☁️ AWS ECS migration for container orchestration
+- 📝 Infrastructure documentation & runbooks
 
 ---
 
-## 📫 Get in Touch
+## 📫 Open For
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 sara.klynx@gmail.com
-- 📱 +33 7 58 28 69 61
+- DevOps Engineer roles
+- Business Systems Analyst positions  
+- ERP implementation & SaaS architecture consulting
+
+**Email:** sara.klynx@gmail.com
+
+---
+
+&lt;div align="center"&gt;
+
+*"Infrastructure is the foundation. Business value is the goal."*
+
+&lt;/div&gt;
