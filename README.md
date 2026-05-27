@@ -90,8 +90,5 @@ Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Ngin
 
 ---
 
-&lt;div align="center"&gt;
-
 *"Infrastructure is the foundation. Business value is the goal."*
 
-&lt;/div&gt;
