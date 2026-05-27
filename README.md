@@ -23,8 +23,6 @@ I build production infrastructure that businesses actually use.
 
 Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Nginx with automated SSL.
 
-**Live:** [client01.klynx.net](https://client01.klynx.net) · [n8n.klynx.net](https://n8n.klynx.net) · [directus.klynx.net](https://directus.klynx.net)
-
 **Stack:** Docker Compose · Nginx · PostgreSQL · Odoo 18 · Let's Encrypt · Cloudflare
 
 ---
