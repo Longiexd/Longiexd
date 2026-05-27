@@ -4,7 +4,7 @@
 
 I build production infrastructure that businesses actually use.
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:sara.klynx@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sara-longo-63701a255/) · [Email](sara.klynx@gmail.com)
 
 ---
 
