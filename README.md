@@ -1,15 +1,10 @@
-&lt;div align="center"&gt;
-
 # 👋 Hey, I'm Longiexd
 
 **DevOps Engineer · Business Systems Analyst · ERP Specialist**
 
 I build production infrastructure that businesses actually use.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sara.klynx@gmail.com)
-
-&lt;/div&gt;
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:sara.klynx@gmail.com)
 
 ---
 
@@ -22,13 +17,13 @@ I build production infrastructure that businesses actually use.
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Project
 
 ### [server_stack](https://github.com/Longiexd/server_stack) — Production Infrastructure
 
 Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Nginx with automated SSL.
 
-**Live domains:** `client01.klynx.net` · `n8n.klynx.net` · `directus.klynx.net`
+**Live:** [client01.klynx.net](https://client01.klynx.net) · [n8n.klynx.net](https://n8n.klynx.net) · [directus.klynx.net](https://directus.klynx.net)
 
 **Stack:** Docker Compose · Nginx · PostgreSQL · Odoo 18 · Let's Encrypt · Cloudflare
 
@@ -36,47 +31,37 @@ Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Ngin
 
 ## 🛠️ Tech Stack
 
-&lt;div align="center"&gt;
-
 **Infrastructure**
-&lt;br&gt;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-&lt;br&gt;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Databases**
-&lt;br&gt;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-&lt;br&gt;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Business Tools**
-&lt;br&gt;
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Directus](https://img.shields.io/badge/Directus-263238?style=for-the-badge&logo=directus&logoColor=white)
 
-&lt;br&gt;
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
+![Directus](https://img.shields.io/badge/Directus-263238?style=flat&logo=directus&logoColor=white)
 
 **Cloud & DNS**
-&lt;br&gt;
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-&lt;/div&gt;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white)
 
 ---
 
 ## 📈 Currently Building
 
-- 🔁 SSL auto-renewal pipeline with cron + Docker reload
-- 📊 Monitoring stack (Prometheus / Grafana)
-- ☁️ AWS ECS migration for container orchestration
-- 📝 Infrastructure documentation & runbooks
+- SSL auto-renewal pipeline with cron + Docker reload
+- Monitoring stack (Prometheus / Grafana)
+- AWS ECS migration for container orchestration
+- Infrastructure documentation & runbooks
 
 ---
 
@@ -91,4 +76,3 @@ Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Ngin
 ---
 
 *"Infrastructure is the foundation. Business value is the goal."*
-
