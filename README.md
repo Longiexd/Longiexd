@@ -8,6 +8,23 @@ I’m particularly interested in building infrastructure that is **reliable, obs
 
 [LinkedIn](https://www.linkedin.com/in/sara-longo-63701a255/) · [Email](mailto:sara.klynx@gmail.com)
 
+<p>
+  <img src="https://cdn.simpleicons.org/linux" height="24" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/docker" height="24" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/nginx" height="24" alt="Nginx" />
+  <img src="https://cdn.simpleicons.org/postgresql" height="24" alt="PostgreSQL" />
+  <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" height="24" alt="Odoo" />
+  <img src="https://cdn.simpleicons.org/cloudflare" height="24" alt="Cloudflare" />
+  <img src="https://cdn.simpleicons.org/letsencrypt" height="24" alt="Let's Encrypt" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" height="24" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/react" height="24" alt="React" />
+  <img src="https://cdn.simpleicons.org/typescript" height="24" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/python" height="24" alt="Python" />
+  <img src="https://cdn.simpleicons.org/fastapi" height="24" alt="FastAPI" />
+  <img src="https://cdn.simpleicons.org/git" height="24" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github" height="24" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/gnubash" height="24" alt="Bash" />
+</p>
 ---
 
 ## 🚀 What I Do
@@ -61,47 +78,68 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
 
 ### ☁️ Infrastructure & DevOps
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="28" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="28" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="28" alt="Nginx" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="28" alt="Terraform" />
+</p>
 
 ### 📊 Monitoring & Observability
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="28" alt="Grafana" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="28" alt="Prometheus" />
+</p>
 
 `Metrics · Dashboards · Logging · Alerting · Service Monitoring`
 
 ### 🔐 Networking & Security
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square\&logo=letsencrypt\&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/cloudflare" height="28" alt="Cloudflare" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" height="28" alt="SSH" />
+</p>
 
 `DNS · Reverse Proxy · HTTPS · SSL/TLS · SSH · Firewall · Network Isolation`
 
 ### ⚙️ Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI" />
+</p>
 
-`REST APIs · JSON-RPC · API Integration · Service Architecture`
+`REST APIs · JSON-RPC · API Integration · Service Architecture ·Uvicorn `
 
 ### 🖥️ Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="28" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="Tailwind CSS" />
+</p>
 
-### 🏢 Business Systems
+### 🏢 Business Systems & Data
 
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square\&logo=odoo\&logoColor=white)
+<p>
+  <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" height="28" alt="Odoo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" />
+</p>
 
 `ERP · CRM · Sales · Accounting · Inventory · Fleet · Workflow Automation`
 
+### 🚀 Deployment & Tooling
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="28" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="28" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="28" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="28" alt="GitHub Actions" />
+</p>
+
+`Git · GitHub · Bash · GitHub Actions · CI/CD · Deployment Automation · Linux CLI`
 ---
 
 ## 🧩 Engineering Focus
