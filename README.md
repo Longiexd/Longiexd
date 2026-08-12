@@ -2,7 +2,9 @@
 
 **DevOps Engineer · Business Systems Analyst · ERP Specialist**
 
-I build production infrastructure that businesses actually use.
+I design, deploy, and maintain business infrastructure — from containerized Linux environments and secure networking to ERP systems, APIs, and vertical SaaS platforms.
+
+I’m particularly interested in building infrastructure that is **reliable, observable, secure, and useful to the business running on top of it.**
 
 [LinkedIn](https://www.linkedin.com/in/sara-longo-63701a255/) · [Email](mailto:sara.klynx@gmail.com)
 
@@ -10,76 +12,173 @@ I build production infrastructure that businesses actually use.
 
 ## 🚀 What I Do
 
-- **DevOps** — Docker orchestration, reverse proxy setup, SSL automation, server hardening
-- **Business Analysis** — ERP implementation, SaaS architecture, workflow optimization  
-- **Infrastructure** — VPS deployment, DNS management, multi-tenant isolation
-- **Security** — Let's Encrypt automation, Cloudflare integration, SSH hardening
+* **DevOps & SysOps** — Linux administration, Docker, Docker Compose, CI/CD, infrastructure automation
+* **Infrastructure** — VPS deployment, reverse proxies, DNS, networking, SSL/TLS and service orchestration
+* **Monitoring & Observability** — metrics, dashboards, logging and infrastructure monitoring
+* **Security** — Cloudflare, HTTPS, SSH hardening, firewall configuration and secure service exposure
+* **Business Systems** — Odoo ERP implementation, customization, integrations and workflow design
+* **Backend Engineering** — FastAPI, REST APIs and Odoo JSON-RPC integrations
+* **Frontend Engineering** — Next.js, React and TypeScript
+* **SaaS Architecture** — designing reusable vertical platforms around real business workflows
 
 ---
 
-## 💼 Featured Project
+## 💼 Featured Projects
 
-### [server_stack](https://github.com/Longiexd/server_stack) — Production Infrastructure
+### [Klynx Infrastructure](https://github.com/Longiexd/klynx-infra) — Infrastructure & Server Stack
 
-Multi-service VPS running Odoo ERP, n8n automation, and Directus CMS behind Nginx with automated SSL.
+Production-oriented infrastructure for deploying and exposing Klynx services and Odoo environments.
 
-**Stack:** Docker Compose · Nginx · PostgreSQL · Odoo 18 · Let's Encrypt · Cloudflare
+**Architecture:**
+
+`Internet → Cloudflare → Nginx → Docker → Services`
+
+**Core Stack:**
+
+`Linux · Docker · Docker Compose · Nginx · PostgreSQL · Odoo · Cloudflare · SSL/TLS`
+
+The infrastructure provides containerized services, reverse-proxy routing, HTTPS termination, isolated application environments and persistent business data services.
 
 ---
 
+### [Klynx Rental OS](https://github.com/Longiexd/klynx-rental-os) — Vertical SaaS Platform
+
+A modular operating system for car rental businesses, combining a modern SaaS interface with Odoo as the business backend.
+
+**Architecture:**
+
+`Next.js → FastAPI → Odoo JSON-RPC → PostgreSQL`
+
+**Stack:**
+
+`Next.js · React · TypeScript · FastAPI · Python · Odoo · PostgreSQL · Docker · Nginx`
+
+The platform abstracts complex ERP workflows into a dedicated operational interface for fleet management, customers, CRM and rental operations.
+
+---
 
 ## 🛠️ Tech Stack
 
-**Infrastructure & Containers**
+### ☁️ Infrastructure & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-000000?style=flat&logo=ssh&logoColor=white)
-![Cron](https://img.shields.io/badge/Cron-0066CC?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
 
-**Security & Hardening**
+### 📊 Monitoring & Observability
 
-![UFW](https://img.shields.io/badge/UFW-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square\&logo=grafana\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square\&logo=prometheus\&logoColor=white)
 
-**Monitoring & Observability**
+`Metrics · Dashboards · Logging · Alerting · Service Monitoring`
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![HTOP](https://img.shields.io/badge/HTOP-0099CC?style=flat&logo=gnu&logoColor=white)
+### 🔐 Networking & Security
 
-**Databases**
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square\&logo=letsencrypt\&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+`DNS · Reverse Proxy · HTTPS · SSL/TLS · SSH · Firewall · Network Isolation`
 
-**Business Tools**
+### ⚙️ Backend
 
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
-![Directus](https://img.shields.io/badge/Directus-263238?style=flat&logo=directus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+
+`REST APIs · JSON-RPC · API Integration · Service Architecture`
+
+### 🖥️ Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+### 🏢 Business Systems
+
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square\&logo=odoo\&logoColor=white)
+
+`ERP · CRM · Sales · Accounting · Inventory · Fleet · Workflow Automation`
 
 ---
 
-## 📈 Currently Building
+## 🧩 Engineering Focus
 
-- SSL auto-renewal pipeline with cron + Docker reload
-- Monitoring stack (Prometheus / Grafana)
-- AWS ECS migration for container orchestration
-- Infrastructure documentation & runbooks
+My work sits at the intersection of **infrastructure, software engineering and business operations**.
+
+Areas I work across:
+
+* Linux server administration
+* Containerized application environments
+* Infrastructure as Code
+* CI/CD pipelines
+* Reverse-proxy architectures
+* Secure service exposure
+* Cloud and DNS infrastructure
+* Monitoring and observability
+* API and service integration
+* ERP architecture and implementation
+* Vertical SaaS platforms
+* Business workflow automation
+
+---
+
+## 🏗️ Klynx Platform
+
+**Klynx** is the broader platform behind these projects — combining infrastructure, ERP and custom software into specialized business systems.
+
+The architecture is designed around reusable building blocks:
+
+```text
+                    ┌─────────────────────┐
+                    │      Internet       │
+                    └──────────┬──────────┘
+                               │
+                         Cloudflare
+                               │
+                            Nginx
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+           Next.js          FastAPI           Odoo
+              │                │                │
+              └────────────────┼────────────────┘
+                               │
+                         PostgreSQL
+```
+
+This approach allows the same infrastructure and engineering patterns to support different vertical applications.
+
+---
+
+## 📈 DevOps Focus
+
+* Infrastructure automation
+* Container orchestration
+* Infrastructure as Code
+* CI/CD
+* Monitoring & observability
+* Secure networking
+* Linux systems administration
+* Service reliability
+* Deployment automation
+* Infrastructure documentation
 
 ---
 
 ## 📫 Open For
 
-- DevOps Engineer roles
-- Business Systems Analyst positions  
-- ERP implementation & SaaS architecture consulting
+* **DevOps Engineer** roles
+* **SysOps Engineer** roles
+* **Business Systems Analyst** positions
+* **ERP / Odoo implementation**
+* **SaaS architecture & development**
+* **Infrastructure consulting**
 
-**Email:** sara.klynx@gmail.com
+**Email:** [sara.klynx@gmail.com](mailto:sara.klynx@gmail.com)
 
 ---
 
-*"Infrastructure is the foundation. Business value is the goal."*
+> *Infrastructure is the foundation. Business value is the goal.*
