@@ -140,8 +140,8 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
 </p>
 
 `Git · GitHub · Bash · GitHub Actions · CI/CD · Deployment Automation · Linux CLI`
----
 
+---
 ## 🧩 Engineering Focus
 
 My work sits at the intersection of **infrastructure, software engineering and business operations**.
