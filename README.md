@@ -2,7 +2,7 @@
 
 **DevOps Engineer · Business Systems Analyst · ERP Specialist**
 
-I design, deploy, and maintain business infrastructure — from containerized Linux environments and secure networking to ERP systems, APIs, and vertical SaaS platforms.
+I design, deploy, and maintain business infrastructure, from containerized Linux environments and secure networking to ERP systems, APIs, and vertical SaaS platforms.
 
 I’m particularly interested in building infrastructure that is **reliable, observable, secure, and useful to the business running on top of it.**
 
@@ -29,14 +29,14 @@ I’m particularly interested in building infrastructure that is **reliable, obs
 
 ## What I Do
 
-* **DevOps & SysOps** — Linux administration, Docker, Docker Compose, CI/CD, infrastructure automation
-* **Infrastructure** — VPS deployment, reverse proxies, DNS, networking, SSL/TLS and service orchestration
-* **Monitoring & Observability** — metrics, dashboards, logging and infrastructure monitoring
-* **Security** — Cloudflare, HTTPS, SSH hardening, firewall configuration and secure service exposure
-* **Business Systems** — Odoo ERP implementation, customization, integrations and workflow design
-* **Backend Engineering** — FastAPI, REST APIs and Odoo JSON-RPC integrations
-* **Frontend Engineering** — Next.js, React and TypeScript
-* **SaaS Architecture** — designing reusable vertical platforms around real business workflows
+* **DevOps & SysOps** : Linux administration, Docker, Docker Compose, CI/CD, infrastructure automation
+* **Infrastructure** : VPS deployment, reverse proxies, DNS, networking, SSL/TLS and service orchestration
+* **Monitoring & Observability** : metrics, dashboards, logging and infrastructure monitoring
+* **Security** : Cloudflare, HTTPS, SSH hardening, firewall configuration and secure service exposure
+* **Business Systems** : Odoo ERP implementation, customization, integrations and workflow design
+* **Backend Engineering** : FastAPI, REST APIs and Odoo JSON-RPC integrations
+* **Frontend Engineering** : Next.js, React and TypeScript
+* **SaaS Architecture** : designing reusable vertical platforms around real business workflows
 
 ---
 
