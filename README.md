@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Longiexd
+# Hey, I'm Longiexd
 
 **DevOps Engineer · Business Systems Analyst · ERP Specialist**
 
@@ -27,7 +27,7 @@ I’m particularly interested in building infrastructure that is **reliable, obs
 </p>
 ---
 
-## 🚀 What I Do
+## What I Do
 
 * **DevOps & SysOps** — Linux administration, Docker, Docker Compose, CI/CD, infrastructure automation
 * **Infrastructure** — VPS deployment, reverse proxies, DNS, networking, SSL/TLS and service orchestration
@@ -40,7 +40,7 @@ I’m particularly interested in building infrastructure that is **reliable, obs
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 ### [Klynx Infrastructure](https://github.com/Longiexd/klynx-infra) — Infrastructure & Server Stack
 
@@ -74,9 +74,9 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☁️ Infrastructure & DevOps
+### Infrastructure & DevOps
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="28" alt="Linux" />
@@ -85,7 +85,7 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="28" alt="Terraform" />
 </p>
 
-### 📊 Monitoring & Observability
+### Monitoring & Observability
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="28" alt="Grafana" />
@@ -94,7 +94,7 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
 
 `Metrics · Dashboards · Logging · Alerting · Service Monitoring`
 
-### 🔐 Networking & Security
+### Networking & Security
 
 <p>
   <img src="https://cdn.simpleicons.org/cloudflare" height="28" alt="Cloudflare" />
@@ -103,7 +103,7 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
 
 `DNS · Reverse Proxy · HTTPS · SSL/TLS · SSH · Firewall · Network Isolation`
 
-### ⚙️ Backend
+### Backend
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" alt="Python" />
@@ -112,7 +112,7 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
 
 `REST APIs · JSON-RPC · API Integration · Service Architecture ·Uvicorn `
 
-### 🖥️ Frontend
+### Frontend
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js" />
@@ -121,7 +121,7 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="Tailwind CSS" />
 </p>
 
-### 🏢 Business Systems & Data
+### Business Systems & Data
 
 <p>
   <img src="https://odoocdn.com/openerp_website/static/src/img/assets/svg/odoo_logo.svg" height="28" alt="Odoo" />
@@ -130,7 +130,7 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
 
 `ERP · CRM · Sales · Accounting · Inventory · Fleet · Workflow Automation`
 
-### 🚀 Deployment & Tooling
+### Deployment & Tooling
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="28" alt="Git" />
@@ -142,7 +142,7 @@ The platform abstracts complex ERP workflows into a dedicated operational interf
 `Git · GitHub · Bash · GitHub Actions · CI/CD · Deployment Automation · Linux CLI`
 
 ---
-## 🧩 Engineering Focus
+## Engineering Focus
 
 My work sits at the intersection of **infrastructure, software engineering and business operations**.
 
@@ -163,7 +163,7 @@ Areas I work across:
 
 ---
 
-## 🏗️ Klynx Platform
+## Klynx Platform
 
 **Klynx** is the broader platform behind these projects — combining infrastructure, ERP and custom software into specialized business systems.
 
@@ -191,7 +191,7 @@ This approach allows the same infrastructure and engineering patterns to support
 
 ---
 
-## 📈 DevOps Focus
+## DevOps Focus
 
 * Infrastructure automation
 * Container orchestration
@@ -206,7 +206,7 @@ This approach allows the same infrastructure and engineering patterns to support
 
 ---
 
-## 📫 Open For
+## Open For
 
 * **DevOps Engineer** roles
 * **SysOps Engineer** roles
